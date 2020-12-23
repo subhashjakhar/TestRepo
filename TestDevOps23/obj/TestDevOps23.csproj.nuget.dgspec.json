@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Subhash\\source\\repos\\TestDevOps23\\TestDevOps23\\TestDevOps23.csproj": {}
+    "C:\\Users\\Subhash\\source\\repos\\subhashjakhar\\TestRepo\\TestDevOps23\\TestDevOps23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Subhash\\source\\repos\\TestDevOps23\\TestDevOps23\\TestDevOps23.csproj": {
+    "C:\\Users\\Subhash\\source\\repos\\subhashjakhar\\TestRepo\\TestDevOps23\\TestDevOps23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Subhash\\source\\repos\\TestDevOps23\\TestDevOps23\\TestDevOps23.csproj",
+        "projectUniqueName": "C:\\Users\\Subhash\\source\\repos\\subhashjakhar\\TestRepo\\TestDevOps23\\TestDevOps23.csproj",
         "projectName": "TestDevOps23",
-        "projectPath": "C:\\Users\\Subhash\\source\\repos\\TestDevOps23\\TestDevOps23\\TestDevOps23.csproj",
+        "projectPath": "C:\\Users\\Subhash\\source\\repos\\subhashjakhar\\TestRepo\\TestDevOps23\\TestDevOps23.csproj",
         "packagesPath": "C:\\Users\\Subhash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Subhash\\source\\repos\\TestDevOps23\\TestDevOps23\\obj\\",
+        "outputPath": "C:\\Users\\Subhash\\source\\repos\\subhashjakhar\\TestRepo\\TestDevOps23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Subhash\\AppData\\Roaming\\NuGet\\NuGet.Config",
