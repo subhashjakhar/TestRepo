@@ -20,6 +20,7 @@ namespace TestDevOps23.Controllers
 
         public IActionResult Index()
         {
+            int i = 10 / 0;
             return View();
         }
 
