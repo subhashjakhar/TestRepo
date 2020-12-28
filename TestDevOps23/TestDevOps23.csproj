@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Web" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Clean;Compile">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Compile">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
