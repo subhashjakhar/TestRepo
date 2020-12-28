@@ -34,3 +34,4 @@ C:\Users\Subhash\source\repos\subhashjakhar\TestRepo\TestDevOps23\obj\Debug\netc
 C:\Users\Subhash\source\repos\subhashjakhar\TestRepo\TestDevOps23\obj\Debug\netcoreapp3.1\TestDevOps23.pdb
 C:\Users\Subhash\source\repos\subhashjakhar\TestRepo\TestDevOps23\obj\Debug\netcoreapp3.1\TestDevOps23.genruntimeconfig.cache
 C:\Users\Subhash\source\repos\subhashjakhar\TestRepo\TestDevOps23\obj\Debug\netcoreapp3.1\TestDevOps23.csproj.CopyComplete
+C:\Users\Subhash\source\repos\subhashjakhar\TestRepo\TestDevOps23\obj\Debug\netcoreapp3.1\TestDevOps23.csprojAssemblyReference.cache
